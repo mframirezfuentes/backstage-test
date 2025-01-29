@@ -6,6 +6,7 @@
 
 1. [Introducción](#introducción)
 2. [Cómo empezar](getting-started.md)
+3. [Arquitectura](architecture.md)
 
 ## Introducción
 
