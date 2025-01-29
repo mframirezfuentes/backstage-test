@@ -10,3 +10,4 @@ spec:
   type: library
   owner: mframirezfuentes@gmail.com
   lifecycle: production
+  system: backstage
