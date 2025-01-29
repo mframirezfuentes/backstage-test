@@ -1,4 +1,4 @@
-site_name: Boardgame API Docs
+site_name: Backstage-test
 nav:
   - Home: index.md
 docs_dir: docs
