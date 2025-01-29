@@ -4,7 +4,7 @@ metadata:
   name: backstage-documentation-test
   description: Este repositorio está sincronizado con Backstage.
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/mframirezfuentes/backstage-test/tree/main/docs
+    backstage.io/techdocs-ref: url:https://github.com/mframirezfuentes/backstage-test
     github.com/project-slug: mframirezfuentes/backstage-test
 spec:
   type: library
