@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-repo
+  name: backstage-documentation-test
   description: Este repositorio está sincronizado con Backstage.
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/mframirezfuentes/backstage-test/tree/main/docs
